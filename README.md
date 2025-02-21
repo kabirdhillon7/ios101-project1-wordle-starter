@@ -18,7 +18,7 @@ Wordle is an iOS app based on the word puzzle game where players have six attemp
 - Run the app on a device rather than in the simulator
 
 ## Requirements
-- iOS 16.0 or later
+- iOS 16.1 or later
 - iPhone 8 or iPhone SE (2nd Generation) or newer
 
 ## Demo
